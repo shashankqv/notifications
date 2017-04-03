@@ -6,3 +6,5 @@ node_modules/
 *swp
 local_settings.py
 config/
+settings.py
+.idea/
